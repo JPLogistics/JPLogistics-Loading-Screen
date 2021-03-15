@@ -1,5 +1,24 @@
 {
   "content": [
-
+    {
+      "path": "missions/Common/LOADING/LOADING_FREEFLIGHT.jpg",
+      "size": 46340,
+      "date": 132602858546915634
+    },
+    {
+      "path": "missions/Common/LOADING/Template.xcf",
+      "size": 33522,
+      "date": 132602858546930932
+    },
+    {
+      "path": "missions/Common/LOADING/FreeFlight/LOADING_FREEFLIGHT.jpg",
+      "size": 46340,
+      "date": 132602858546915634
+    },
+    {
+      "path": "missions/Common/LOADING/FreeFlight/placeholder.txt",
+      "size": 0,
+      "date": 132602858546930932
+    }
   ]
 }
